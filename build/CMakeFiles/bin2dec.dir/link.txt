@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/bin2dec.dir/link.d CMakeFiles/bin2dec.dir/src/bin.cpp.o CMakeFiles/bin2dec.dir/src/b2dec_utils.cpp.o -o bin2dec

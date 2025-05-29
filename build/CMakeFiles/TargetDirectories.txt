@@ -1,0 +1,3 @@
+/home/ath/HobbyProject/bin2dec/build/CMakeFiles/bin2dec.dir
+/home/ath/HobbyProject/bin2dec/build/CMakeFiles/edit_cache.dir
+/home/ath/HobbyProject/bin2dec/build/CMakeFiles/rebuild_cache.dir
